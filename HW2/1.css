@@ -1,0 +1,297 @@
+body{
+  background-color: #fe7701;
+  width:1260;
+  margin: 0px;
+}
+
+.header{
+  height: 57px;
+  width: 960px;
+  margin:0px auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#left_logo{
+  display: inline;
+  margin:0px 491px 0px 25px;
+}
+
+.right_logo{
+  display:inline;
+  margin:0px 10px 0px 0px;
+}
+
+.article{
+  width:960px;
+  height:569px;
+  margin:auto;
+  margin-bottom: 20px;
+}
+
+.box{
+  background-color: #ffffff;
+  box-shadow: -5px 5px #a54d05;
+}
+
+.article .box{
+  margin-bottom: 19px;
+  height:50px;
+  width: 960px;
+}
+
+a{
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 14pt;
+  color:#fe7701;
+}
+
+.article a{
+  position: relative;
+  margin-left: 30px;
+  top: 16px;
+}
+
+.second_article{
+  margin: auto;
+  height: 246px;
+  width:960px;
+}
+
+.second_article .first_part .box{
+  height:50px;
+  width:300px;
+  display: inline-block;
+}
+
+.second_article .first_part .blank{
+  display: inline-block;
+  width: 22px;
+}
+
+.second_article .first_part .box a{
+  position: relative;
+  margin-left: 30px;
+  line-height: 50px;
+}
+
+.second_article .virtical_img{
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 51px;
+}
+
+.second_article .beside_vertical_img{
+  position: relative;
+  display: inline-block;
+  bottom: 18px;
+}
+
+.second_article .beside_vertical_img .box{
+  height: 30px;
+  width: 199px;
+  margin-bottom: 13px;
+}
+
+.second_article .beside_vertical_img a{
+  position: relative;
+  left:15px;
+  line-height: 30px;
+  font-size: 12pt;
+  color:#404040;
+}
+
+.second_article .six_img{
+  position: relative;
+  display: inline-block;
+  margin-left: 28px;
+  bottom:8px;
+}
+
+.second_article .six_img .first_three{
+  margin-bottom: 10px;
+}
+
+.second_article .six_img img{
+  margin-right: 12px;
+}
+
+.second_article .last_essay{
+  position: relative;
+  display: inline-block;
+  margin-left: 15px;
+  bottom:15px;
+}
+
+.second_article .last_essay .box{
+  height:136px;
+  width:300px;
+}
+
+.second_article .last_essay p{
+  position: relative;
+  top:13px;
+  left:15px;
+  font-family: Arial;
+  font-size:12pt;
+  color:#404040;
+}
+
+.third_article{
+  margin: auto;
+  width:960px;
+  height:370px;
+}
+
+.third_article .left{
+  display: inline-block;
+}
+
+#toppest{
+  height:50px;
+  width:630px;
+  background-color: #ffffff;
+  box-shadow: -5px 5px #a54d05;
+  margin-bottom: 20px;
+}
+
+#toppest p{
+  position:relative;;
+  top:16px;
+  left:30px;
+  font-family: Arial;
+  font-weight: bold;
+  color:#fe7701;
+  font-size: 14pt;
+}
+
+.third_article .box{
+  height:80px;
+  width:630px;
+  margin-bottom: 10px;
+}
+
+.third_article .box img{
+  position: relative;
+  top:10px;
+  left:10px;
+}
+
+.third_article .box p{
+  display: inline;
+}
+
+.third_article .box .first{
+    position: relative;
+    font-family: Arial;
+    font-size: 16pt;
+    color:#404040;
+    margin-left:15px;
+    bottom:30px;
+}
+
+.third_article .box .second{
+  position:relative;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 10pt;
+  color:#a54e03;
+  right: 273px;
+  bottom:5px;
+}
+
+.third_article .right{
+  position: relative;
+  display: inline-block;
+  margin-left: 20px;
+  bottom:65px;
+}
+
+.third_article .right .first{
+  height:50px;
+  width:300px;
+  background-color: white;
+  box-shadow: -5px 5px #a54d05;
+  margin-bottom: 20px;
+}
+
+.third_article .right .first a{
+  position: relative;
+  line-height: 50px;
+  left:15px;
+}
+
+.third_article .right .second{
+  background-color: white;
+  height:260px;
+  width:300px;
+  box-shadow: -5px 5px #a54d05;
+}
+
+.third_article .right .second p{
+  position: relative;
+  top: 14px;
+  left:15px;
+}
+
+.third_article .right .second .email{
+  position: relative;
+  top: 14px;
+  left:15px;
+}
+
+.third_article .right .second p{
+  display: inline;
+  font-family: Arial;
+  font-size: 12pt;
+  color:#404040;
+  top:14px;
+}
+
+.third_article .right .second .email{
+  font-size: 14pt;
+  color:#a54e03;
+  font-family: Arial;
+}
+
+.third_article .right .second .link{
+  font-family: Arial;
+  font-style: italic;
+  color:#a54e03;
+  font-size: 10px;
+}
+
+.third_article .right .second hr{
+  position: relative;
+  width:270px;
+  align: center;
+  top:14px;
+  color: #a54e03;
+}
+
+.footer{
+  height:70px;
+  background-color: #404040;
+}
+
+.footer p{
+  font-size: 14pt;
+  color:#fe7701;
+  font-family: Arial;
+  font-weight: bold;
+  display: inline;
+}
+
+.footer .left{
+  position: relative;
+  margin-left: 200px;
+  line-height: 70px;
+}
+
+.footer .right{
+  position: relative;
+  float:right;
+  right:295px;
+  top:5px;
+}
